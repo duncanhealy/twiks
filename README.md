@@ -47,3 +47,7 @@ Please file an issue [here](https://github.com/lirantal/twiks/issues/new) for bu
 ## License
 
 MIT © [Liran Tal](https://github.com/lirantal/twiks)
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
